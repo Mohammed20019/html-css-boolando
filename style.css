@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: orange;
+    height: 80px;
+
+    
+}
+.navbar-brand{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.immagine{
+    height: 40px;
+}
+.div1{
+    display: inline;
+}
+.main{
+    margin-top: 43px;
+}
+.h1{
+    text-end
+}
