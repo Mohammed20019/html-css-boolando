@@ -21,6 +21,6 @@
 .main{
     margin-top: 43px;
 }
-.h1{
-    text-end
+.titolo{
+    justify-content: center;
 }
